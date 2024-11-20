@@ -9,6 +9,6 @@ Data sourced from: https://github.com/sam-single/realwaste
 # Section 1: Software and Platform Section
 Software used: Google Colab
 
-Add-on Packages needed: os, shutil, PIL, sklearn.model_selection, torchvision, torch.utils.data, pandas, matplotlib.pyplot, torch, hashlib, seaborn, matplotlib.image
+Add-on Packages needed: os, shutil, PIL, sklearn.model_selection, torchvision, torch.utils.data, pandas, matplotlib.pyplot, torch, hashlib, seaborn, matplotlib.image, numpy, torchvision.models, torch.nn, torch.optim, tensorflow, tensorflow.keras.regularizers, tensorflow.keras.layers, tensorflow.keras.models, keras
 
 Platforms: Windows, Mac
