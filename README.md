@@ -16,3 +16,13 @@ Platforms: Windows, Mac
 
 
 # Section 3: Insturctions to Replicate Results
+Set up a notebook using google colab.
+
+Import os, shutil, pandas, matplotlib.pyplot, and torch.
+
+From sklearn.model_selection import train_test_split.
+
+From torchvision import transforms.
+
+From torch.utils.data import DataLoader, Dataset.
+
