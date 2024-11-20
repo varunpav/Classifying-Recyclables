@@ -12,3 +12,7 @@ Software used: Google Colab
 Add-on Packages needed: os, shutil, PIL, sklearn.model_selection, torchvision, torch.utils.data, pandas, matplotlib.pyplot, torch, hashlib, seaborn, matplotlib.image, numpy, torchvision.models, torch.nn, torch.optim, tensorflow, tensorflow.keras.regularizers, tensorflow.keras.layers, tensorflow.keras.models, keras
 
 Platforms: Windows, Mac
+# Section 2: Project Folder Contents
+
+
+# Section 3: Insturctions to Replicate Results
