@@ -1,5 +1,6 @@
-## Data Source
-The data for the project was obtained at the following link:<br> `https://github.com/sam-single/realwaste/tree/main/RealWaste`
+Process to Obtain the Dataset: 
+We obtained our dataset from this GitHub user, sam-single
+To access the dataset we cloned their GitHub in Collab Notebooks: https://github.com/sam-single/realwaste.git
 
 References:
 
