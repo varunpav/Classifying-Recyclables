@@ -355,3 +355,8 @@ Set myMetrics equal to a list including 'accuracy'.
 Use the myModel.compile method to configure the model for training.
 
 Use the myModel.fit method to train the model using the training data.
+
+# References
+[1] sam-single. (2023). GitHub - sam-single/realwaste: RealWaste is an image dataset of waste items in their authentic state. GitHub. https://github.com/sam-single/realwaste?tab=readme-ov-file
+
+[2] Deng, J., Dong, W., Socher, R., Li, L.-J., Li, K., & Fei-Fei, L. (2009). "ImageNet: A Large-Scale Hierarchical Image Database." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
