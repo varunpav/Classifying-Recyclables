@@ -354,4 +354,4 @@ Set myMetrics equal to a list including 'accuracy'.
 
 Use the myModel.compile method to configure the model for training.
 
-Use the myModel.fit method to train the model using the trianing data.
+Use the myModel.fit method to train the model using the training data.
