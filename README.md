@@ -3,6 +3,8 @@ Recyclable vs. Non-Recyclable Image analysis
 
 Group members: Varun Pavuloori, Erin Moulton, Hank Dickerson
 
+Check out the Project motivations in the [Hook Document](Recycling_HookDoc.pdf)
+
 Work completed as a part of the Data Science Project course @ UVA
 
 Data sourced from: https://github.com/sam-single/realwaste
